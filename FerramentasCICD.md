@@ -65,15 +65,7 @@ O artigo fala pouco delas, então a análise é bem mais curta.
 - **Bitbucket / TeamCity:** quem já usa ferramentas da Atlassian ou da JetBrains.
 - **Usar os dois:** os autores dizem que também dá para combinar Azure DevOps e GitHub.
 
-## 6. Pontos fracos do artigo
 
-- Na introdução, o texto descreve o Azure DevOps como "mais leve e flexível", o que parece trocado com o GitHub.
-- Diz que "dados empíricos" mostram o Azure Pipelines melhor, mas não mostra benchmark nem tempos medidos. As tabelas são qualitativas.
-- Os percentuais de mercado vêm de "estatísticas da Microsoft", sem fonte clara.
-- As referências são quase todas livros genéricos de DevOps, não documentação oficial.
-- Algumas informações podem estar desatualizadas, como o nome Azure AD (hoje Microsoft Entra ID), preços, minutos grátis e a ideia de que repositórios do GitHub são "públicos por padrão".
-- Parece puxar um pouco para o lado do Azure DevOps na maioria das tabelas.
-
-## 7. Conclusão
+## 6. Conclusão
 
 Não existe uma ferramenta melhor para tudo. O Azure DevOps funciona melhor em ambientes grandes, com regras rígidas e muito uso de Microsoft. O GitHub se encaixa melhor em times ágeis, open source e projetos mais leves. A escolha depende do tamanho do time, do orçamento, da segurança exigida e da infraestrutura que já existe.
